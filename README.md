@@ -4,7 +4,7 @@
 
 ![InfiniVerse](screenshot.jpg)
 
-Welcome to InfiniVerse! This Dart-powered application extracts specialized image data, shares it seamlessly, and unlocks endless creativity through captivating simulations.
+Welcome to InfiniVerse! This Dart-powered application extracts specialized image data and shares it.
 
 ---
 
@@ -45,12 +45,6 @@ This project is governed by a [Code of Conduct](CODE_OF_CONDUCT.md). All contrib
 
 ---
 
-## User Guide / Demo
-
-Explore a detailed user guide and a demo of the project [here](https://github.com/Kvnbbg/InfiniVerse-Demo) to understand how to use InfiniVerse effectively.
-
----
-
 ## Documentation / Help Center
 
 For detailed information, FAQs, and troubleshooting, visit our [Help Center](https://kvnbbg-creations.io/assets/html/faq-infiniverse.html).
@@ -67,4 +61,5 @@ For detailed information, FAQs, and troubleshooting, visit our [Help Center](htt
 
 ---
 
-**Created by [Kvnbbg](https://github.com/Kvnbbg) | Join me on [YouTube or Github](https://github.com/Kvnbbg/InfiniVerse) for tutorials and updates!**
+**Author:** Kevin Marville  
+**Contact:** kevinmarville@gmail.com
